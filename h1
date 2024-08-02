@@ -1,0 +1,2 @@
+git init 
+heroku create -a example -app
